@@ -13,9 +13,3 @@ return array
 }
 
 function whileLoop(string) {
- for (n=1)
-while (countdown > 0) {
-  console.log(--countdown)
-}
-return.string.('done')  
-}

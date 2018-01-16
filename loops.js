@@ -12,6 +12,11 @@ function forLoop(array) {
 return array
 }
 
-function whileLoop(){
-  
+function whileLoop(string) {
+  let countdown = 100;
+ 
+while (countdown > 0) {
+  console.log(--countdown)
+}
+return.string.('done')  
 }

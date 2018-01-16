@@ -13,8 +13,7 @@ return array
 }
 
 function whileLoop(string) {
-  let countdown = 100;
- 
+ for (n=1)
 while (countdown > 0) {
   console.log(--countdown)
 }

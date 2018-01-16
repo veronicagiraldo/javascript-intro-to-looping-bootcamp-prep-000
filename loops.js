@@ -12,4 +12,4 @@ function forLoop(array) {
 return array
 }
 
-function 
+function whileLoop()
